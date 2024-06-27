@@ -1,0 +1,19 @@
+agent_1: Nice to meet you, what are you studying?
+agent_2: I am studying a degree in computer science, I started it 5 years ago.
+agent_1: How interesting, that field is being very relevant in the last years.
+agent_2: Yes, that's why I chose it, to find a job easier.
+agent_1: And where do you study?
+agent_2: At San Pablo University, it is located north of the city.
+agent_1: I've been told that this university is very good, I'm sure it was hard for you to get in.
+agent_2: Yes, I had to prepare for an entrance exam for 1 year. I even had to attend classes.
+agent_1: It was really hard then.
+agent_2: And you, what are you studying?
+agent_1: I'm studying a master's degree in marketing, I've been studying for 1 year and a half.
+agent_2: In which university?
+agent_1: It is not very well known, it is the University of San Lorenzo, it is in the south of the city.
+agent_2: Yes, I know which one it is, a friend of mine is studying a degree in philosophy there.
+agent_1: Oh yes, what is your friend's name? Maybe I know her
+agent_2: My friend's name is Lorena Garcia.
+agent_1: Ah yes! I know who she is, we have some friends in common.
+agent_2: What a coincidence, well, when I see her I will tell her about you.
+agent_1: I'm sure she remembers me!

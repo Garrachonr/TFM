@@ -1,0 +1,18 @@
+agent_1: Did you watch the Real Madrid game on Tuesday?
+agent_2: The Champions League match?
+agent_1: Yes
+agent_2: I was watching Manchester City who were playing at the same time.
+agent_1: So you like soccer right?
+agent_2: Yes, I watch all the games of my team.
+agent_1: What team are you?
+agent_2: FC Barcelona
+agent_1: Well, I'm from the rival team, Real Madrid FC
+agent_2: How do you see the season?
+agent_1: I see us strong in the Spanish league, but not so much in the Champions League.
+agent_2: Well, I think FC Barcelona will not win anything this year.
+agent_1: I heard that the club has money problems.
+agent_2: Yes, but they want to sell players to get money and prepare for the next season.
+agent_1: The next round of the Champions League is coming soon, if you want we can watch it together.
+agent_2: Sure, you can come to my house, I have a new TV set.
+agent_1: Perfect, I'll bring the drinks!
+agent_2: Great

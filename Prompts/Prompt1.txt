@@ -1,0 +1,18 @@
+"Given the following conversation, identify and list memorable personal facts and data in short phrases as a human inside that conversation would when the conversation has ended. Reflect on what are the data or concepts from the conversation that are valuable to memorize. Pay attention to the data related to personal experience and atributes from the agents and relate them directly with each of the agents (agent_1 and agent_2). You must list all the memorable information in only one list of phrases whitout aggregation. The conversation is the following:
+
+agent_1: Last year I went on a climbing trip to the mountains.
+agent_2: How cool, did you like the experience?
+agent_1: Very much, but I would not repeat the experience because I am afraid of heights.
+agent_2: That's too bad, I'm sure you didn't have a good time.
+agent_1: Not at that moment, I just wanted to finish.
+agent_2: Did you have any trick to avoid the fear of heights?
+agent_1: To look up all the time and think that it is an experience that I had to live once in my life.
+agent_2: Well, two years ago I went to ride jet skis, you might like that experience better.
+agent_1: Maybe. And what did you think, would you repeat the experience?
+agent_2: Without hesitation, I had a great time and it was a lot of fun.
+agent_1: Next time you go, let me know and let's go together, I want to try it.
+agent_2: Perfect. The only problem is that it is a bit expensive.
+agent_1: That's ok, I have some savings that I have been saving for occasions like this.
+agent_2: Then no problem, I have vacation in August this year, we could go around that time.
+agent_1: Fine with me! Let's meet then to go jet skiing in August.
+agent_2: Great!"

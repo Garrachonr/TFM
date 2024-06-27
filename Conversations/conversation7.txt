@@ -1,0 +1,19 @@
+agent_1: Yesterday I went grocery shopping and all the vegetables were on sale.
+agent_2: Oh yeah? which one did you go to?
+agent_1: The one next to the church.
+agent_2: Do you know which vegetables are better now?
+agent_1: It is tomato season, they have brought them very good.
+agent_2: That's good, I'll buy some, too bad it's not melon season.
+agent_1: The melon season starts in May.
+agent_2: How come you know so much about vegetables?
+agent_1: When I was a child I grew up in the country with my grandfather who had a garden.
+agent_2: And you grew a lot of vegetables?
+agent_1: A lot, my grandfather was a farmer, we cultivated all year round.
+agent_2: What an envy, I grew up in the city and did not set foot in the countryside.
+agent_1: What did your parents do?
+agent_2: My parents were bankers and they did not like the countryside.
+agent_1: A pity
+agent_2: But when I buy a house I want it to have a yard to cultivate my own plants.
+agent_1: Then ask me for help when you need it, I can advise you.
+agent_2: Perfect! when I have my garden I'll let you know
+agent_1: Great.

@@ -1,0 +1,24 @@
+The task consists of 3 conversations and each of them has a time projection assigned to it. The task is to read each one of them and think what personal data of that conversation would be memorable in the assigned time projection. That is, if you were inside that conversation and the two agents were people close to you, what do you think would be the data that you would still remember from that conversation after some time has passed, being the time the temporal projection itself.
+
+Here is an example for a time projection of 1 week
+
+Agent_1: I sprained my ankle playing paddle tennis last week.
+Agent_2: What degree was it?
+Agent_1: I didn't go to the doctor, they told me that ice would be enough.
+Agent_2: I studied medicine and I think you should go to the doctor.
+Agent_1: I will try to go, don't you have an extra crutch?
+Agent_2: I have two, they belong to my grandfather.
+
+An example of answers for 1 week could be:
+- Agent_1 sprained his ankle a week ago playing paddle tennis.
+- Agent_2 is studying medicine
+- Agent_2 is on crutches
+
+
+For a time projection of 1 hour you might remember that Agent_1 did not go to the doctor or that Agent_2's crutches are his grandfather's. For longer projections like 2 months or 1 year you might not remember where or when he sprained his ankle or that Agent_2 has crutches. For longer projections like 2 months or 1 year you might not remember where or when he sprained his ankle or that Agent_2 has crutches.
+
+So, this is a demonstrative example and the reasoning is up to you and should not be influenced by the example. It serves only to demonstrate the structure.
+
+Here are the 3 conversations with their respective time projections. There is no hurry to carry out the task, it will be done when you have some free time and without any pressure.
+
+Thank you very much.

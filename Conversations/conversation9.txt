@@ -1,0 +1,18 @@
+agent_1: Next week is the week of offers in stores?
+agent_2: Ah yes, in which stores are there offers?
+agent_1: Mostly in clothing stores, but also in some electronics stores.
+agent_2: It's great for me, I love fashion and clothes.
+agent_1: I don't like it very much, but I need to buy some things.
+agent_2: If you want I can go with you and help you to buy some things
+agent_1: Do you know a lot about clothes?
+agent_2: Yes, I know most of the brands and I know which ones are of good quality.
+agent_1: And to combine clothes can you help me too?
+agent_2: Of course!
+agent_1: Great. I need mainly pants and some sweatshirt
+agent_2: The Levis pants are of very good quality, I have several of them
+agent_1: I had some but they broke when I went to climb a mountain.
+agent_2: Normal, they are good pants but they are not made for the mountain.
+agent_1: Do you know any brand of sport pants!
+agent_2: Yes, if you want next week we go to the offers and I show you
+agent_1: Perfect! Thank you very much
+agent_2: No problem.

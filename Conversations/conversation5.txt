@@ -1,0 +1,19 @@
+agent_1: The other day I had a very strange experience.
+agent_2: Tell me about it.
+agent_1: I was at home and I heard my grandmother's voice.
+agent_2: What's so strange about it?
+agent_1: That my grandmother has been dead for 5 years.
+agent_2: How strange, do you believe in ghosts?
+agent_1: Not much, but this experience makes me doubt.
+agent_2: I do believe in ghosts, my aunt is a psychic, I can ask her for help.
+agent_1: Well, I would be interested if she could help me.
+agent_2: She is the best psychic in town, she has already helped many people to talk to the dead.
+agent_1: How much does she charge?
+agent_2: 100 euros per session.
+agent_1: Yes, let her know and have her come to my house as soon as possible.
+agent_2: I need some information to give her. What is your grandmother's name and what did she do for a living?
+agent_1: Her name was Carmen and she was a farmer.
+agent_2: And what did she die of?
+agent_1: She was run over by my grandfather with the tractor, my grandfather's eyesight was failing a little.
+agent_2: What a shame. Well, I'll talk to my aunt and we'll solve this problem as soon as possible.
+agent_1: Perfect! I'll be waiting for you.

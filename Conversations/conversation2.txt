@@ -1,0 +1,19 @@
+agent_1: Do you play any sport?
+agent_2: I like tennis very much, I've been playing since I was a child.
+agent_1: What a coincidence! I love it too, I started playing when I was 5 years old.
+agent_2: And where did you play?
+agent_1: In the court next to the town hall.
+agent_2: I used to play in the park next to the river, but I also went there some times.
+agent_1: If you want to play a game some day.
+agent_2: I don't have the tennis racquets anymore, but if you want to play paddle tennis.
+agent_1: It also works for me, although I have only played a match.
+agent_2: No problem, I'll teach you, I've been playing for 2 years.
+agent_1: Perfect, if you want let's go to the paddle courts next to the town hall.
+agent_2: Fine with me, if you want I'm a member of the paddle courts.
+agent_1: Wednesday of next week is good for you?
+agent_2: Yes, now I call the paddle club and reserve.
+agent_1: I injured my ankle 1 month ago, I hope it won't be a problem.
+agent_2: Do you have an ankle brace?
+agent_1: Yes, I have already practiced a little sport and nothing has happened to me.
+agent_2: Then there should be no problem, see you there.
+agent_1: Perfect!

@@ -1,0 +1,19 @@
+agent_1: Do you like to travel?
+agent_2: Yes, I love it, I want to take advantage now that I am a student to travel as much as possible.
+agent_1: Where have you been recently?
+agent_2: I've been to Rome and Florence recently.
+agent_1: A tour of the most important cities in Italy, no?
+agent_2: Just, I also wanted to go to Venice but I did not have the time
+agent_1: And what did you think of them?
+agent_2: Very nice, especially Florence, I think it is the best city in Italy.
+agent_1: I want to go to Florence, I've been waiting for it.
+agent_2: And you? What was the last city you have traveled to?
+agent_1: I was in Tokyo recently
+agent_2: How cool, I really want to go to Tokyo, how did you like it?
+agent_1: I thought it was very nice but also very big, you do not have time to see it all.
+agent_2: Is it true that it is very similar to the anime?
+agent_1: Yes, the scenery is practically the same.
+agent_2: And the clash of cultures? They say that the culture is very different
+agent_1: Yes, the culture of Japan is very different from the European one.
+agent_2: I want to go next year, I will ask you to help me.
+agent_1: Great, I will help you in everything you need, I already know how to go there.

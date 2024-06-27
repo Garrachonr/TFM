@@ -1,0 +1,4 @@
+pymongo
+ollama
+openai
+transformers

@@ -1,0 +1,19 @@
+agent_1: Do you like animals?
+agent_2: Not very much, I'm afraid of dogs for example.
+agent_1: Well, I love them, I have a lot of pets.
+agent_2: Do you have a dog?
+agent_1: Yes, he is my best friend, if you want I can introduce him to you.
+agent_2: I'm not sure, I'm afraid of him.
+agent_1: My dog is not dangerous, he is very small too.
+agent_2: What is his name?
+agent_1: Yew, he looks like a cuddly toy, he has never attacked anyone and he is very good.
+agent_2: We can try, bring him if you want.
+agent_1: Where does your fear of dogs come from?
+agent_2: When I was 7 years old a wild dog attacked me when I was playing in the park.
+agent_1: That's too bad, but that shouldn't make you afraid of dogs, most dogs are very good.
+agent_2: Maybe, but I've been afraid of them ever since.
+agent_1: Do you have any pets?
+agent_2: I had a turtle, but a year ago it jumped off the balcony and we haven't found it again.
+agent_1: And how come it was able to jump over the balcony if turtles don't jump.
+agent_2: He climbed over the railing and jumped.
+agent_1: What a pity.

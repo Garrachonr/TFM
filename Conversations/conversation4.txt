@@ -1,0 +1,18 @@
+agent_1: Do you have any hobbies?
+agent_2: Now I am very busy with my studies, but when I have some time I like to play videogames.
+agent_1: I also like video games, two weeks ago I bought the PS5.
+agent_2: That's great! Have you bought any game with the console?
+agent_1: The Elden Ring game, I really wanted to play it.
+agent_2: I love that game, but it is very complicated, I played it when it came out 2 months ago.
+agent_1: I will start to play it now, if I have any problem I will ask you for help.
+agent_2: Of course, I will be happy to help you.
+agent_1: Do you have a favorite videogame saga?
+agent_2: I love the Pokemon series. I played the first game when I was 9 years old.
+agent_1: Me too, my favorite game of the series is Pokemon Diamond.
+agent_2: I loved that game, but the one I like the most is Pokemon Emerald.
+agent_1: It's also very cool, recently a new one has been released and it has very good reviews.
+agent_2: Oh yeah, what's it called?
+agent_1: Pokemon Arceus, I recommend it.
+agent_2: I'll play it when I finish the elden ring.
+agent_1: Perfect, you will tell me what you think, I liked it a lot.
+agent_2: Yes, let's stay in touch.
